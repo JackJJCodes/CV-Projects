@@ -6,3 +6,4 @@ This repository contains various Computer-Vision based projects for beginners.
 * This project demonstrates real-time image segmentation, using **Pixellib**.
 * For image-segmentation model, we use the *mask_rcnn_coco.h5*. It is a RCNN based model, which is run on the coco dataset. More about the model <a href="https://github.com/matterport/Mask_RCNN/releases">here</a>.
 * Screenshots:
+<img src="https://github.com/JackJJCodes/CV-Projects/blob/main/Real-Time-Image-Segmentation/image-segment.png">
